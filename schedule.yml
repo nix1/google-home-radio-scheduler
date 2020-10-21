@@ -1,0 +1,44 @@
+monday:
+  - at: '07:20'
+    station: tokfm
+    device: Pizza
+  - at: '07:45'
+    station: nowyswiat
+    device: Pizza
+tuesday:
+  - at: '07:20'
+    station: tokfm
+    device: Pizza
+  - at: '07:45'
+    station: nowyswiat
+    device: Pizza
+wednesday:
+  - at: '07:20'
+    station: tokfm
+    device: Pizza
+  - at: '07:45'
+    station: nowyswiat
+    device: Pizza
+thursday:
+  - at: '07:20'
+    station: tokfm
+    device: Pizza
+  - at: '07:45'
+    station: nowyswiat
+    device: Pizza
+friday:
+  - at: '07:20'
+    station: tokfm
+    device: Pizza
+  - at: '07:45'
+    station: nowyswiat
+    device: Pizza
+sunday:
+  # De Cuba, Su Musica
+  - at: '08:00'
+    station: nowyswiat
+    device: Pizza
+  # Pora Siesty
+  - at: '15:00'
+    station: nowyswiat
+    device: Pizza

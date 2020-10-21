@@ -18,7 +18,6 @@ def play_stream(device_name, url):
     mc = cast.media_controller
     mc.play_media(url, 'audio/mpeg')
     mc.block_until_active()
-    print(mc.status)
     mc.pause()
     time.sleep(5)
     mc.play()
