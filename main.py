@@ -27,7 +27,10 @@ if __name__ == "__main__":
             device = job['device']
             print(f"{day}: scheduling {station} for {at} on {device}")
             scheduler = getattr(schedule.every(), day)
-            scheduler.at(at).do(play_station, station, device)
+            try:
+                scheduler.at(at).do(play_station, station, device)
+            except ConnectionError:
+                print(f"Failed to connect to {device}")
 
     print("👌 all fine, now just waiting...")
     while True:
