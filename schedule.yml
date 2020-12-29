@@ -1,44 +1,63 @@
 monday:
   - at: '07:20'
     station: tokfm
-    device: Pizza
+    device: Bedroom-Dining Room
   - at: '07:45'
     station: nowyswiat
-    device: Pizza
+    device: Bedroom-Dining Room
+  - at: '10:00'
+    station: nowyswiat
+    device: Dining Room
 tuesday:
   - at: '07:20'
     station: tokfm
-    device: Pizza
+    device: Bedroom-Dining Room
   - at: '07:45'
     station: nowyswiat
-    device: Pizza
+    device: Bedroom-Dining Room
+  - at: '10:00'
+    station: nowyswiat
+    device: Dining Room
 wednesday:
   - at: '07:20'
     station: tokfm
-    device: Pizza
+    device: Bedroom-Dining Room
   - at: '07:45'
     station: nowyswiat
-    device: Pizza
+    device: Bedroom-Dining Room
+  - at: '10:00'
+    station: nowyswiat
+    device: Dining Room
 thursday:
   - at: '07:20'
     station: tokfm
-    device: Pizza
+    device: Bedroom-Dining Room
   - at: '07:45'
     station: nowyswiat
-    device: Pizza
+    device: Bedroom-Dining Room
+  - at: '10:00'
+    station: nowyswiat
+    device: Dining Room
 friday:
   - at: '07:20'
     station: tokfm
-    device: Pizza
-  - at: '07:45'
+    device: Bedroom-Dining Room
+  - at: '07:26'
     station: nowyswiat
-    device: Pizza
+    device: Bedroom-Dining Room
+  - at: '10:00'
+    station: nowyswiat
+    device: Dining Room
+saturday:
+  - at: '08:00'
+    station: nowyswiat
+    device: Everywhere
 sunday:
   # De Cuba, Su Musica
   - at: '08:00'
     station: nowyswiat
-    device: Pizza
+    device: Everywhere
   # Pora Siesty
   - at: '15:00'
     station: nowyswiat
-    device: Pizza
+    device: Everywhere
